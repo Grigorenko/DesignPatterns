@@ -1,7 +1,6 @@
-﻿
-using System.Text;
+﻿using System.Text;
 
-namespace LaptopBuilder
+namespace Builder.Laptop
 {
   public class Laptop
   {

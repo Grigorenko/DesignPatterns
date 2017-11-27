@@ -1,6 +1,7 @@
 ﻿
-namespace LaptopBuilder
+namespace Builder.Laptop
 {
+  //director
   public class BuyLaptop
   {
     private LaptopBuilder laptopBuilder;

@@ -11,7 +11,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "3.Behavioral", "3.Behaviora
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Builder", "Builder", "{CF08F42E-F3C8-4B5D-8FED-2D467C80F5A1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LaptopBuilder", "LaptopBuilder\LaptopBuilder.csproj", "{4AB9911F-0A0C-4C14-AA87-2023C7983D41}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Builder.Laptop", "Builder.Laptop\Builder.Laptop.csproj", "{F7C23E68-5F5F-49F3-81DE-BC5CCAFB0B5F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -19,17 +19,17 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{4AB9911F-0A0C-4C14-AA87-2023C7983D41}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{4AB9911F-0A0C-4C14-AA87-2023C7983D41}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{4AB9911F-0A0C-4C14-AA87-2023C7983D41}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{4AB9911F-0A0C-4C14-AA87-2023C7983D41}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F7C23E68-5F5F-49F3-81DE-BC5CCAFB0B5F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F7C23E68-5F5F-49F3-81DE-BC5CCAFB0B5F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F7C23E68-5F5F-49F3-81DE-BC5CCAFB0B5F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F7C23E68-5F5F-49F3-81DE-BC5CCAFB0B5F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{CF08F42E-F3C8-4B5D-8FED-2D467C80F5A1} = {D4ED71B1-1265-4AF2-A216-CF29FBF407B8}
-		{4AB9911F-0A0C-4C14-AA87-2023C7983D41} = {CF08F42E-F3C8-4B5D-8FED-2D467C80F5A1}
+		{F7C23E68-5F5F-49F3-81DE-BC5CCAFB0B5F} = {CF08F42E-F3C8-4B5D-8FED-2D467C80F5A1}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {54B8FAB1-02B1-42B4-8600-42ABCC237619}

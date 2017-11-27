@@ -1,5 +1,5 @@
 ﻿
-namespace LaptopBuilder
+namespace Builder.Laptop
 {
   public abstract class LaptopBuilder
   {
